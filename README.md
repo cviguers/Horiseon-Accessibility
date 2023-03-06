@@ -1,17 +1,17 @@
 # Horiseon-Accessibility
 
-Description
+##Description
 
-Refactored starter code for Horiseon Marketing Agency to follow accessibility standards and ensure site is optimized for search engines
+###Refactored starter code for Horiseon Marketing Agency to follow accessibility standards and ensure site is optimized for search engines
 
-Changes Made
+##Changes Made
 
-Refactored provided starter code to condense and simplify HTML and CSS
-Provided alt attributes to images to meet accessibility standards
-Input semantic HTML elements and ensured all elements were in a logical structure
-Created a descriptive title for webpage
-Ensure all links properly worked 
-Commented and created sections for CSS
+###Refactored provided starter code to condense and simplify HTML and CSS
+###Provided alt attributes to images to meet accessibility standards
+###Input semantic HTML elements and ensured all elements were in a logical structure
+###Created a descriptive title for webpage
+###Ensure all links properly worked 
+###Commented and created sections for CSS
 
 
 User Story
@@ -34,10 +34,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Preview
+##Preview
 
-<img src:"./assets/images/screenshot.png">
+###<img src="./assets/images/screenshot.png"/>
 
-Deployed Application
+##Deployed Application
 
-https://cviguers.github.io/Horiseon-Accessibility/
+###https://cviguers.github.io/Horiseon-Accessibility/
